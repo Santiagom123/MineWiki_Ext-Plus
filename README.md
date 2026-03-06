@@ -195,7 +195,8 @@ build/libs/
 
 ```
 
-Use the generated JAR for distribution.
+Do not use generated JAR for distribution.
+Read LICENSE.md
 
 ---
 
