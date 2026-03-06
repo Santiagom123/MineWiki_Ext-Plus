@@ -1,0 +1,21 @@
+{ "_commentMcV": "Minecraft vanilla Wiki",
+  "minecraft": {
+    "url": "https://minecraft.wiki/",
+    "wool": {
+      "url": "https://minecraft.wiki/w/Wool",
+      "14": {
+        "url": "https://minecraft.wiki/w/Wool#Red"
+      },
+      "0": {
+        "url": "https://minecraft.wiki/w/Wool#White"
+      }
+    }
+  },
+  "_commentHBM": "HBM Wiki",
+  "hbm": {
+    "url": "https://nucleartech.wiki/wiki/Main_Page",
+    "dud": {
+      "url": "https://nucleartech.wiki/wiki/Dud"
+    }
+  }
+}
